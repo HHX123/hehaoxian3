@@ -153,6 +153,8 @@
 .footer a:link
 {
     text-decoration: none;
+    color: red;/*为什么不能改变连接中字体的颜色*/
+    
 }
 
 .footer_img
@@ -177,6 +179,7 @@
     font-size: 5px;
     text-align: center;
     line-height: 9.6px;
+    color: #8e8e8e;
 }
 
 .header2
